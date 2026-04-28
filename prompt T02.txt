@@ -1,0 +1,9 @@
+dan sekarang saya akan melanjutkan t02 yang dimana study case nya berisi seperti ini 
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi.
+ Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan.
+ pada case 2 ini diminta mampu menentukan total stok hanya untuk kategori barang yang diminta
+ apakah to1 dengan t02 itu study case yang berbeda?
+ apakah kita sendiri yang menentukan kategori barang?
+ apakah kategori barang tidak dari gambar yang aku berikan(gambar tersebut sudah disediakan oleh soal/study casenya)
+ berarti ketika kita menginput total datanya ,deret stoknya dan juga kategori barang nya outputnya itu apakah mengeluarkan 
+ seberapa banyak total stok yang tersedia dr beberapa barang yang diminta?apakah begitu?

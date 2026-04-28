@@ -1,0 +1,10 @@
+okei sekrang aku masuk pada T03 yang dimana membuat sebuah sistem yang mendukung
+ opresional cafe IT del,dimana cafe it dekl menjual berbagai jenis makanan dan minuman,
+ makanan yang dijual terdiri dari gorengan,mie,dan juga nasi.Kalau minuman terdiri dari jus,coffe 
+ dan juga teh hangat ataupun dingin.sistem pemesanan cafe it del masih manual,tetapi mahasiswa 
+ dapat memesan lewat wa dan ketika pesan sudah dibalas mahasiswa akn menjemputnya,peng list an 
+ pesanan yang dilakukan oleh anggota cafe it del masih manual yang dimana dicatat pada buku.
+ kira kira sistem apa yang mendukung operasional untuk ini?tidak usah beri code dulu berikan aku pemecahan masalahnya dulu
+ aku memnginginkan ketika kita inputannya adalah pesanan,menu,catatan pesanan total harga ,dan untuk pemecahan masalah ini
+  hanya dibutuhkan 1 model dan sudh mencakup hasil pengerjaannya pada driver 3
+  berikan aku code model dan driver yang tepat

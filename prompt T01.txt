@@ -1,0 +1,10 @@
+saya adalah mahasiswa sitem informasi yang sekarang sedang melakukan ujian praltikum dengan
+ matakuliah pemograman beriontrasi objek,saya memiliki beberapa study case atau yang pertama disebut 
+ sebagai T01 dan selanjutnya,sekarang saya ingin memecahkan masalah nya dengan adanya pengembangan driver 1 dan 
+ juga model,saya menggunakan java 2.1 pada viscode dan juga saya akan mengirimkan study case nya seperti ini
+ dan aku menginginkan penyelesaiannnya dengan code yang sesuai dan tepat pada model dan juga driver nya,dan harus 
+ sesuai dengan output pada study case yang diastas yang aku lakukan .
+ tapi awalan nya pada model dinginkan seperti ini package model; public class Model1 { }
+  dan juga pd driver seperti ini package driver; public class Driver1 { public static void main(String[] args) { } }
+  ketika aku sudah menyalin kode pada driver 1 kenapa pada kata input,kotaucok,kotaTambahan,ongkirPerkg 
+  pada kode driver 1 ada garis orange?
